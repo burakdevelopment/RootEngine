@@ -2,6 +2,8 @@
 
 # ♜ RootEngine
 
+<img width="1254" height="1254" alt="root" src="https://github.com/user-attachments/assets/4a549b3f-5ce6-45cf-946e-448e85d68302" />
+
 **A free, open-source UCI chess engine in modern C++ — magic bitboards,
 Lazy SMP, Polyglot book support and an experimental NNUE with a full
 in-repo training pipeline.**
